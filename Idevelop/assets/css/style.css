@@ -55,8 +55,8 @@ p {
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-position: cover;
-    background-size: center;
+    background-size: cover;
+    background-position: center;    
 }
 
 .float-left {
@@ -86,13 +86,18 @@ p {
     background-color: #2589bd;
 }
 
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff
+}
+
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-.benefits-cost {
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -107,7 +112,7 @@ p {
     text-align: center;
 }
 
-.benefits-cost h3 {
+.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -124,7 +129,7 @@ p {
     max-width: 150px;
 }
 
-.benefits-cost img {
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
