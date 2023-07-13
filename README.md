@@ -29,7 +29,5 @@ This project has an MIT licenced.
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
 Any developer can contribute by turning this Web application into a mobile application. Please contact me directly (yhdeslouches@hotmail.com) if you would like to contribute to this project. 
 
