@@ -4,7 +4,7 @@
 
 My main motivation was the fact that I love taking on new challenges, and this one seemed to be an interesting one.
 This project is an amazing plateform to highligt the benefits of having online marketing strategies. And it addresses the uncertainty around building an online presence for any business.
-On a coding standpoint, I learned new ways to reorganise files in a repository. Creating this website also helped learn about the importance of having an e-commerce.
+On a coding standpoint, I learned new ways to reorganise files in a repository. Creating this website also helped learn the importance of having an e-commerce.
 
 ## Table of Contents 
 
